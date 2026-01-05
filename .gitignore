@@ -3,3 +3,6 @@
 *.py
 *.svg
 *.pdf
+
+# macOS system files
+._*
