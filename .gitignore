@@ -1,8 +1,0 @@
-* text eol=lf
-.DS_Store
-*.py
-*.svg
-*.pdf
-
-# macOS system files
-._*
